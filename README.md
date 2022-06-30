@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Kasper
 - 👀 I’m interested in Web Development(LayOut), Server-side development
 - 🌱 I’m currently learning Java and JavaScript
-- 💞️ I’m looking to collaborate on websites
+- 💞️ I’m looking to collaborate on websites, enterprise
 - 📫 How to reach me akasperovich1@gmail.com
 
 <!---
