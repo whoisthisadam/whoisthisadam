@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adam Kasper
-- 👀 I’m interested in Web Development(Backend and Frontend)
-- 🌱 I’m currently learning Java(Spring Framework) and JavaScript
-- 💞️ I’m looking to collaborate on websites, enterprise
+- 👀 I’m interested in Enterprise Development
+- 🌱 I’m currently learning Java(Spring Framework)
+- 💞️ I’m looking to collaborate on RESTful applications, websites, enterprise
 - 📫 How to reach me akasperovich1@gmail.com
 
 <!---
