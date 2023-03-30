@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam Kasper
 - 👀 I’m interested in Enterprise Development, DevOps
-- 🌱 I’m currently learning Java, Spring Framework and Amazon Web Services
+- 🌱 I’m currently learning Java, Spring Framework and Microsoft Azure
 - 💞️ I’m looking to collaborate on RESTful applications, DevOps
 - 📫 How to reach me akasperovich1@gmail.com
 
