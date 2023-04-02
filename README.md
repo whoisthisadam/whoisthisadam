@@ -115,12 +115,6 @@ Email
 
 </div>
 
-
-
-Credit: [Adam Kasperovich](https://github.com/whoisthisadam)
-
-Last Edited on: 02/04/2023
-
 <!---
 whoisthisadam/whoisthisadam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
