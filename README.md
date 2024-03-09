@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Adam Kasperovich </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-
+[![wakatime](https://wakatime.com/badge/user/018df251-8c63-40e6-ab09-171a69ac9114.svg)](https://wakatime.com/@018df251-8c63-40e6-ab09-171a69ac9114)
 
 
 	
