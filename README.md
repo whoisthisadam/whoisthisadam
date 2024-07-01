@@ -11,7 +11,7 @@
 <br>
 
 - Software Enthusiast
-- Currently work as a Full Stack Engineer at [ITC Systems](https://itcsystems.com/)
+- Currently work as a Full Stack Engineer
 - Computer science student
 
 <br><br>
