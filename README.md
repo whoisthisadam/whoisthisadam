@@ -11,7 +11,7 @@
 <br>
 
 - Software Enthusiast
-- Currently work as a Full Stack Engineer
+- Currently work as a Full Stack Developer
 - Computer science student
 
 <br><br>
